@@ -6,6 +6,7 @@
       "info-card#button-left",
       "shelf"
     ]
+<<<<<<< HEAD
   },
   "shelf": {
     "blocks": ["product-summary.shelf"],
@@ -60,5 +61,7 @@
       "callToActionUrl": "/sale/d",
       "textAlignment": "center"
     }
+=======
+>>>>>>> 3a78807... Create shelf.jsonc file
   }
 }
