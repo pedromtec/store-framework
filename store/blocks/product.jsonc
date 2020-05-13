@@ -30,8 +30,8 @@
   },
   "product-name": {
     "props": {
-      "showSKU": true,
-      "showBrandName": true
+      "showSKU": false,
+      "showBrandName": false
     }
   }
 }
